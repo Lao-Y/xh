@@ -1,0 +1,421 @@
+{
+  "base": [
+    "艾尔芙海姆焦土.webp",
+    "暗影沼泽.webp",
+    "傲慢之巅.webp",
+    "白金商路.webp",
+    "白塔城.webp",
+    "暴怒王座.webp",
+    "北风哨塔.webp",
+    "碧水港.webp",
+    "碧水港1.webp",
+    "冰封之河.webp",
+    "冰耗子酒馆.webp",
+    "不屈壁垒‘’.webp",
+    "仓库.webp",
+    "仓库1.webp",
+    "藏宝室.webp",
+    "潮汐交易所.webp",
+    "潮汐交易所1.webp",
+    "晨曦堡.webp",
+    "储藏.webp",
+    "船.webp",
+    "船舱.webp",
+    "船长.webp",
+    "大圣堂.webp",
+    "蛋糕.webp",
+    "地下回廊.webp",
+    "灯塔.webp",
+    "低语之森.webp",
+    "帝国大道.webp",
+    "丰饶谷.webp",
+    "风暴角.webp",
+    "风暴眼群岛.webp",
+    "风剪要塞.webp",
+    "钢铁之心.webp",
+    "工会.webp",
+    "古战场之路.webp",
+    "关卡.webp",
+    "光辉工坊.webp",
+    "光辉工坊1.webp",
+    "光耀城.webp",
+    "光耀城1.webp",
+    "光耀城2.webp",
+    "光之河.webp",
+    "骸骨荒原.webp",
+    "海.webp",
+    "海2.webp",
+    "海上贸易.webp",
+    "豪华房间.webp",
+    "黑帆港.webp",
+    "黑帆港1.webp",
+    "黑铁港.webp",
+    "黑渊.webp",
+    "后巷.webp",
+    "黄昏上空.webp",
+    "黄金1.webp",
+    "黄金湾.webp",
+    "回音峡谷.webp",
+    "火山.webp",
+    "火山1.webp",
+    "火山群.webp",
+    "甲板.webp",
+    "教堂.webp",
+    "结晶沙漠.webp",
+    "金穗港.webp",
+    "鲸落港.webp",
+    "静谧湖.webp",
+    "静谧之心.webp",
+    "静置之城.webp",
+    "酒馆.webp",
+    "巨人阶梯.webp",
+    "巨人之脊.webp",
+    "据点.webp",
+    "绝望深渊.webp",
+    "枯萎.webp",
+    "矿坑.webp",
+    "蕾拉.webp",
+    "黎明哨塔.webp",
+    "力量熔炉.webp",
+    "廉价旅馆.webp",
+    "灵魂之井.webp",
+    "琉璃工坊.webp",
+    "琉璃工坊1.webp",
+    "龙牙关.webp",
+    "旅馆.webp",
+    "罗兹莉奴.webp",
+    "码头.webp",
+    "迷宫.webp",
+    "迷雾之海.webp",
+    "冥河.webp",
+    "命运织毯.webp",
+    "墓穴.webp",
+    "暮色.webp",
+    "怒涛海峡.webp",
+    "怒涛湾.webp",
+    "盘古尼亚之心.webp",
+    "破晓.webp",
+    "七重.webp",
+    "祈祷山丘.webp",
+    "崎岖山路.webp",
+    "泣空平原.webp",
+    "契约岛.webp",
+    "契约岛1.webp",
+    "千帆.webp",
+    "千帆1.webp",
+    "千帆运河.webp",
+    "色欲花园.webp",
+    "珊瑚城.webp",
+    "珊瑚城1.webp",
+    "商业街.webp",
+    "商业码头.webp",
+    "上空.webp",
+    "上空2.webp",
+    "哨塔.webp",
+    "深巢.webp",
+    "深渊之痕.webp",
+    "神恩平原.webp",
+    "神眷镇.webp",
+    "生命之泉.webp",
+    "圣盾要塞.webp",
+    "圣恩港.webp",
+    "圣光之源.webp",
+    "石拳矿场.webp",
+    "世界树.webp",
+    "世界树之心.webp",
+    "世界之心熔炉.webp",
+    "水晶阶梯.webp",
+    "碎盾镇.webp",
+    "贪婪矿坑.webp",
+    "叹息山脉.webp",
+    "饕餮飨宴宫.webp",
+    "天平殿.webp",
+    "天穹之顶.webp",
+    "铁匠铺.webp",
+    "铁誓城.webp",
+    "铁誓城1.webp",
+    "铁砧.webp",
+    "图书馆.webp",
+    "万魔殿.webp",
+    "万魔殿1.webp",
+    "王者之路.webp",
+    "西方魔幻广场.webp",
+    "西幻地下黑市.webp",
+    "西境哨塔.webp",
+    "希拉药剂店.webp",
+    "下水道.webp",
+    "下水道1.webp",
+    "香料群岛.webp",
+    "香料群岛1.webp",
+    "谐律花园.webp",
+    "星辰.webp",
+    "雄狮关.webp",
+    "雪晶镇.webp",
+    "血誓堡.webp",
+    "药剂店.webp",
+    "伊格尼斯.webp",
+    "异世界幻想餐馆.webp",
+    "英灵殿.webp",
+    "影幕街区.webp",
+    "佣兵工会.webp",
+    "永冬冰原.webp",
+    "勇者之眠.webp",
+    "浴场.webp",
+    "月光.webp",
+    "月光花园.webp",
+    "月神殿.webp",
+    "月语森林.webp",
+    "澡堂.webp",
+    "战马平原.webp",
+    "珍珠港.webp",
+    "珍珠港1.webp",
+    "征服者.webp",
+    "知识古道.webp",
+    "知识商会.webp",
+    "智慧庭院.webp",
+    "中央荒野史诗背景.webp",
+    "钟楼.webp"
+  ],
+  "night": {
+    "艾尔芙海姆焦土": {
+      "day": "艾尔芙海姆焦土.webp",
+      "night": "艾尔芙海姆焦土-night.webp"
+    },
+    "暗影沼泽": {
+      "day": "暗影沼泽.webp",
+      "night": "暗影沼泽-night.webp"
+    },
+    "白金商路": {
+      "day": "白金商路.webp",
+      "night": "白金商路-night.webp"
+    },
+    "白塔城": {
+      "day": "白塔城.webp",
+      "night": "白塔城-night.webp"
+    },
+    "北风哨塔": {
+      "day": "北风哨塔.webp",
+      "night": "北风哨塔-night.webp"
+    },
+    "碧水港": {
+      "day": "碧水港.webp",
+      "night": "碧水港-night.webp"
+    },
+    "冰封之河": {
+      "day": "冰封之河.webp",
+      "night": "冰封之河-night.webp"
+    },
+    "不屈壁垒": {
+      "day": "不屈壁垒‘’.webp",
+      "night": "不屈壁垒-night.webp"
+    },
+    "晨曦堡": {
+      "day": "晨曦堡.webp",
+      "night": "晨曦堡-night.webp"
+    },
+    "船": {
+      "day": "船.webp",
+      "night": "船-night.webp"
+    },
+    "帝国大道": {
+      "day": "帝国大道.webp",
+      "night": "帝国大道-night.webp"
+    },
+    "丰饶谷": {
+      "day": "丰饶谷.webp",
+      "night": "丰饶谷-night.webp"
+    },
+    "风暴眼群岛": {
+      "day": "风暴眼群岛.webp",
+      "night": "风暴眼群岛-night.webp"
+    },
+    "风剪要塞": {
+      "day": "风剪要塞.webp",
+      "night": "风剪要塞-night.webp"
+    },
+    "关卡": {
+      "day": "关卡.webp",
+      "night": "关卡-night.webp"
+    },
+    "光耀城": {
+      "day": "光耀城.webp",
+      "night": "光耀城-night.webp"
+    },
+    "光之河": {
+      "day": "光之河.webp",
+      "night": "光之河-night.webp"
+    },
+    "骸骨荒原": {
+      "day": "骸骨荒原.webp",
+      "night": "骸骨荒原-night.webp"
+    },
+    "海": {
+      "day": "海.webp",
+      "night": "海-night.webp"
+    },
+    "海上贸易": {
+      "day": "海上贸易.webp",
+      "night": "海上贸易-night.webp"
+    },
+    "黑帆港": {
+      "day": "黑帆港.webp",
+      "night": "黑帆港-night.webp"
+    },
+    "黑铁港": {
+      "day": "黑铁港.webp",
+      "night": "黑铁港-night.webp"
+    },
+    "黄金湾": {
+      "day": "黄金湾.webp",
+      "night": "黄金湾-night.webp"
+    },
+    "回音峡谷": {
+      "day": "回音峡谷.webp",
+      "night": "回音峡谷-night.webp"
+    },
+    "金穗港": {
+      "day": "金穗港.webp",
+      "night": "金穗港-night.webp"
+    },
+    "鲸落港": {
+      "day": "鲸落港.webp",
+      "night": "鲸落港-night.webp"
+    },
+    "静谧湖": {
+      "day": "静谧湖.webp",
+      "night": "静谧湖-night.webp"
+    },
+    "黎明哨塔": {
+      "day": "黎明哨塔.webp",
+      "night": "黎明哨塔-night.webp"
+    },
+    "龙牙关": {
+      "day": "龙牙关.webp",
+      "night": "龙牙关-night.webp"
+    },
+    "码头": {
+      "day": "码头.webp",
+      "night": "码头-night.webp"
+    },
+    "迷雾之海": {
+      "day": "迷雾之海.webp",
+      "night": "迷雾之海-night.webp"
+    },
+    "怒涛海峡": {
+      "day": "怒涛海峡.webp",
+      "night": "怒涛海峡-night.webp"
+    },
+    "怒涛湾": {
+      "day": "怒涛湾.webp",
+      "night": "怒涛湾-night.webp"
+    },
+    "崎岖山路": {
+      "day": "崎岖山路.webp",
+      "night": "崎岖山路-night.webp"
+    },
+    "泣空平原": {
+      "day": "泣空平原.webp",
+      "night": "泣空平原-night.webp"
+    },
+    "契约岛": {
+      "day": "契约岛.webp",
+      "night": "契约岛-night.webp"
+    },
+    "千帆运河": {
+      "day": "千帆运河.webp",
+      "night": "千帆运河-night.webp"
+    },
+    "珊瑚城": {
+      "day": "珊瑚城.webp",
+      "night": "珊瑚城-night.webp"
+    },
+    "商业街": {
+      "day": "商业街.webp",
+      "night": "商业街-night.webp"
+    },
+    "商业码头": {
+      "day": "商业码头.webp",
+      "night": "商业码头-night.webp"
+    },
+    "哨塔": {
+      "day": "哨塔.webp",
+      "night": "哨塔-night.webp"
+    },
+    "神恩平原": {
+      "day": "神恩平原.webp",
+      "night": "神恩平原-night.webp"
+    },
+    "神眷镇": {
+      "day": "神眷镇.webp",
+      "night": "神眷镇-night.webp"
+    },
+    "生命之泉": {
+      "day": "生命之泉.webp",
+      "night": "生命之泉-night.webp"
+    },
+    "圣盾要塞": {
+      "day": "圣盾要塞.webp",
+      "night": "圣盾要塞-night.webp"
+    },
+    "圣恩港": {
+      "day": "圣恩港.webp",
+      "night": "圣恩港-night.webp"
+    },
+    "世界树": {
+      "day": "世界树.webp",
+      "night": "世界树-night.webp"
+    },
+    "碎盾镇": {
+      "day": "碎盾镇.webp",
+      "night": "碎盾镇-night.webp"
+    },
+    "铁誓城": {
+      "day": "铁誓城.webp",
+      "night": "铁誓城-night.webp"
+    },
+    "西方魔幻广场": {
+      "day": "西方魔幻广场.webp",
+      "night": "西方魔幻广场-night.webp"
+    },
+    "西境哨塔": {
+      "day": "西境哨塔.webp",
+      "night": "西境哨塔-night.webp"
+    },
+    "香料群岛": {
+      "day": "香料群岛.webp",
+      "night": "香料群岛-night.webp"
+    },
+    "雄狮关": {
+      "day": "雄狮关.webp",
+      "night": "雄狮关-night.webp"
+    },
+    "雪晶镇": {
+      "day": "雪晶镇.webp",
+      "night": "雪晶镇-night.webp"
+    },
+    "血誓堡": {
+      "day": "血誓堡.webp",
+      "night": "血誓堡-night.webp"
+    },
+    "永冬冰原": {
+      "day": "永冬冰原.webp",
+      "night": "永冬冰原-night.webp"
+    },
+    "月语森林": {
+      "day": "月语森林.webp",
+      "night": "月语森林-night.webp"
+    },
+    "战马平原": {
+      "day": "战马平原.webp",
+      "night": "战马平原-night.webp"
+    },
+    "珍珠港": {
+      "day": "珍珠港.webp",
+      "night": "珍珠港-night.webp"
+    },
+    "知识古道": {
+      "day": "知识古道.webp",
+      "night": "知识古道-night.webp"
+    }
+  }
+}
