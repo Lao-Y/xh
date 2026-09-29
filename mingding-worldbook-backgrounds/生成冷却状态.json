@@ -1,0 +1,17 @@
+{
+  "service": "image_gen",
+  "status": "cooldown",
+  "resetAtUtc": "2026-09-28T04:49:09Z",
+  "resetsAtUnix": 1790570949,
+  "reason": "usage_limit_reached",
+  "pendingSceneId": 406630,
+  "pendingNightImage": "evernight-wall-night-03.png",
+  "completedStagedImages": [
+    "evernight-wall-day-01.png",
+    "evernight-wall-night-01.png",
+    "evernight-wall-day-02.png",
+    "evernight-wall-night-02.png",
+    "evernight-wall-day-03.png"
+  ],
+  "note": "Third daylight is 1672x941 and safely saved in isolated pack; first night attempt was 1671x941 and was not activated. Generate matching 1672x941 third night after reset, then register all three pairs."
+}

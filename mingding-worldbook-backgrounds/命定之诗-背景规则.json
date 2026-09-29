@@ -1,0 +1,2580 @@
+{
+  "repo": "Lao-Y/xh",
+  "branch": "main",
+  "rules": [
+    {
+      "id": "bg-aesgard-day",
+      "kind": "background",
+      "keyword": "艾瑟嘉德",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/aesgard-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/aesgard-day-01.png",
+        "mingding-worldbook-backgrounds/aesgard-day-02.png",
+        "mingding-worldbook-backgrounds/aesgard-day-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-aesgard-night",
+      "kind": "background",
+      "keyword": "艾瑟嘉德",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/aesgard-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/aesgard-night-01.png",
+        "mingding-worldbook-backgrounds/aesgard-night-02.png",
+        "mingding-worldbook-backgrounds/aesgard-night-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-hyacinth-city-day",
+      "kind": "background",
+      "keyword": "风信子城",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/hyacinth-city-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/hyacinth-city-day-01.png",
+        "mingding-worldbook-backgrounds/hyacinth-city-day-02.png",
+        "mingding-worldbook-backgrounds/hyacinth-city-day-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-hyacinth-city-night",
+      "kind": "background",
+      "keyword": "风信子城",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/hyacinth-city-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/hyacinth-city-night-01.png",
+        "mingding-worldbook-backgrounds/hyacinth-city-night-02.png",
+        "mingding-worldbook-backgrounds/hyacinth-city-night-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-windmill-town-day",
+      "kind": "background",
+      "keyword": "风车镇",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/windmill-town-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/windmill-town-day-01.png",
+        "mingding-worldbook-backgrounds/windmill-town-day-02.png",
+        "mingding-worldbook-backgrounds/windmill-town-day-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-windmill-town-night",
+      "kind": "background",
+      "keyword": "风车镇",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/windmill-town-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/windmill-town-night-01.png",
+        "mingding-worldbook-backgrounds/windmill-town-night-02.png",
+        "mingding-worldbook-backgrounds/windmill-town-night-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-white-crown-city-day",
+      "kind": "background",
+      "keyword": "白曜城",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/white-crown-city-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/white-crown-city-day-01.png",
+        "mingding-worldbook-backgrounds/white-crown-city-day-02.png",
+        "mingding-worldbook-backgrounds/white-crown-city-day-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-white-crown-city-night",
+      "kind": "background",
+      "keyword": "白曜城",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/white-crown-city-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/white-crown-city-night-01.png",
+        "mingding-worldbook-backgrounds/white-crown-city-night-02.png",
+        "mingding-worldbook-backgrounds/white-crown-city-night-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-begonia-academy-day",
+      "kind": "background",
+      "keyword": "海棠学院",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/begonia-academy-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/begonia-academy-day-01.png",
+        "mingding-worldbook-backgrounds/begonia-academy-day-02.png",
+        "mingding-worldbook-backgrounds/begonia-academy-day-03.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-begonia-academy-night",
+      "kind": "background",
+      "keyword": "海棠学院",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/begonia-academy-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/begonia-academy-night-01.png",
+        "mingding-worldbook-backgrounds/begonia-academy-night-02.png",
+        "mingding-worldbook-backgrounds/begonia-academy-night-03.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-central-plains-day",
+      "kind": "background",
+      "keyword": "中央平原区",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/central-plains-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/central-plains-day-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-central-plains-night",
+      "kind": "background",
+      "keyword": "中央平原区",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/central-plains-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/central-plains-night-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-valentia-outer-ring-day",
+      "kind": "background",
+      "keyword": "外环区",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/valentia-outer-ring-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/valentia-outer-ring-day-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-valentia-outer-ring-night",
+      "kind": "background",
+      "keyword": "外环区",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/valentia-outer-ring-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/valentia-outer-ring-night-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-shattered-crown-ridge-east-day",
+      "kind": "background",
+      "keyword": "碎冕冰脊",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/shattered-crown-ridge-east-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/shattered-crown-ridge-east-day-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-shattered-crown-ridge-east-night",
+      "kind": "background",
+      "keyword": "碎冕冰脊",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/shattered-crown-ridge-east-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/shattered-crown-ridge-east-night-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-bone-echo-city-day",
+      "kind": "background",
+      "keyword": "伯恩·瑞瑟喃斯",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/bone-echo-city-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/bone-echo-city-day-01.png",
+        "mingding-worldbook-backgrounds/bone-echo-city-day-02.png",
+        "mingding-worldbook-backgrounds/bone-echo-city-day-03.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-bone-echo-city-night",
+      "kind": "background",
+      "keyword": "伯恩·瑞瑟喃斯",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/bone-echo-city-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/bone-echo-city-night-01.png",
+        "mingding-worldbook-backgrounds/bone-echo-city-night-02.png",
+        "mingding-worldbook-backgrounds/bone-echo-city-night-03.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-dar-suq-day",
+      "kind": "background",
+      "keyword": "达尔·苏克",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/dar-suq-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/dar-suq-day-01.png",
+        "mingding-worldbook-backgrounds/dar-suq-day-02.png",
+        "mingding-worldbook-backgrounds/dar-suq-day-03.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-dar-suq-night",
+      "kind": "background",
+      "keyword": "达尔·苏克",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/dar-suq-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/dar-suq-night-01.png",
+        "mingding-worldbook-backgrounds/dar-suq-night-02.png",
+        "mingding-worldbook-backgrounds/dar-suq-night-03.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-forest-song-city-day",
+      "kind": "background",
+      "keyword": "林歌城",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/forest-song-city-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/forest-song-city-day-01.png",
+        "mingding-worldbook-backgrounds/forest-song-city-day-02.png",
+        "mingding-worldbook-backgrounds/forest-song-city-day-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-forest-song-city-night",
+      "kind": "background",
+      "keyword": "林歌城",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/forest-song-city-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/forest-song-city-night-01.png",
+        "mingding-worldbook-backgrounds/forest-song-city-night-02.png",
+        "mingding-worldbook-backgrounds/forest-song-city-night-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-colored-jade-district-day",
+      "kind": "background",
+      "keyword": "彩玉区",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/colored-jade-district-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/colored-jade-district-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-colored-jade-district-night",
+      "kind": "background",
+      "keyword": "彩玉区",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/colored-jade-district-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/colored-jade-district-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-mist-forest-day",
+      "kind": "background",
+      "keyword": "迷雾森林",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/mist-forest-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/mist-forest-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-mist-forest-night",
+      "kind": "background",
+      "keyword": "迷雾森林",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/mist-forest-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/mist-forest-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-mist-crystal-port-day",
+      "kind": "background",
+      "keyword": "雾晶港",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/mist-crystal-port-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/mist-crystal-port-day-01.png",
+        "mingding-worldbook-backgrounds/mist-crystal-port-day-02.png",
+        "mingding-worldbook-backgrounds/mist-crystal-port-day-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-mist-crystal-port-night",
+      "kind": "background",
+      "keyword": "雾晶港",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/mist-crystal-port-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/mist-crystal-port-night-01.png",
+        "mingding-worldbook-backgrounds/mist-crystal-port-night-02.png",
+        "mingding-worldbook-backgrounds/mist-crystal-port-night-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-lament-fortress-day",
+      "kind": "background",
+      "keyword": "挽歌堡",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/lament-fortress-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/lament-fortress-day-01.png",
+        "mingding-worldbook-backgrounds/lament-fortress-day-02.png",
+        "mingding-worldbook-backgrounds/lament-fortress-day-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-lament-fortress-night",
+      "kind": "background",
+      "keyword": "挽歌堡",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/lament-fortress-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/lament-fortress-night-01.png",
+        "mingding-worldbook-backgrounds/lament-fortress-night-02.png",
+        "mingding-worldbook-backgrounds/lament-fortress-night-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-red-spider-lily-city-day",
+      "kind": "background",
+      "keyword": "石蒜城",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/red-spider-lily-city-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/red-spider-lily-city-day-01.png",
+        "mingding-worldbook-backgrounds/red-spider-lily-city-day-02.png",
+        "mingding-worldbook-backgrounds/red-spider-lily-city-day-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-red-spider-lily-city-night",
+      "kind": "background",
+      "keyword": "石蒜城",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/red-spider-lily-city-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/red-spider-lily-city-night-01.png",
+        "mingding-worldbook-backgrounds/red-spider-lily-city-night-02.png",
+        "mingding-worldbook-backgrounds/red-spider-lily-city-night-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-everstill-thunderwood-day",
+      "kind": "background",
+      "keyword": "永寂雷林",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/everstill-thunderwood-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/everstill-thunderwood-day-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-everstill-thunderwood-night",
+      "kind": "background",
+      "keyword": "永寂雷林",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/everstill-thunderwood-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/everstill-thunderwood-night-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-dark-tide-archipelago-day",
+      "kind": "background",
+      "keyword": "暗澜群岛",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/dark-tide-archipelago-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/dark-tide-archipelago-day-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-dark-tide-archipelago-night",
+      "kind": "background",
+      "keyword": "暗澜群岛",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/dark-tide-archipelago-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/dark-tide-archipelago-night-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-northern-borderlands-day",
+      "kind": "background",
+      "keyword": "北部边境带",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/northern-borderlands-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/northern-borderlands-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-northern-borderlands-night",
+      "kind": "background",
+      "keyword": "北部边境带",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/northern-borderlands-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/northern-borderlands-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-gray-crown-court-day",
+      "kind": "background",
+      "keyword": "灰冠庭",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/gray-crown-court-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/gray-crown-court-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-gray-crown-court-night",
+      "kind": "background",
+      "keyword": "灰冠庭",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/gray-crown-court-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/gray-crown-court-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-graystone-town-day",
+      "kind": "background",
+      "keyword": "灰岩镇",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/graystone-town-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/graystone-town-day-01.png",
+        "mingding-worldbook-backgrounds/graystone-town-day-02.png",
+        "mingding-worldbook-backgrounds/graystone-town-day-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-graystone-town-night",
+      "kind": "background",
+      "keyword": "灰岩镇",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/graystone-town-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/graystone-town-night-01.png",
+        "mingding-worldbook-backgrounds/graystone-town-night-02.png",
+        "mingding-worldbook-backgrounds/graystone-town-night-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-five-halls-street-day",
+      "kind": "background",
+      "keyword": "五馆街",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/five-halls-street-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/five-halls-street-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-five-halls-street-night",
+      "kind": "background",
+      "keyword": "五馆街",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/five-halls-street-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/five-halls-street-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-falling-star-island-day",
+      "kind": "background",
+      "keyword": "落星之岛",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/falling-star-island-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/falling-star-island-day-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-falling-star-island-night",
+      "kind": "background",
+      "keyword": "落星之岛",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/falling-star-island-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/falling-star-island-night-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-frostmirror-naval-quarter-day",
+      "kind": "background",
+      "keyword": "军港区",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/frostmirror-naval-quarter-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/frostmirror-naval-quarter-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-frostmirror-naval-quarter-night",
+      "kind": "background",
+      "keyword": "军港区",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/frostmirror-naval-quarter-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/frostmirror-naval-quarter-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-nova-valentia-city-day",
+      "kind": "background",
+      "keyword": "瓦伦蒂亚",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/nova-valentia-city-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/nova-valentia-city-day-01.png",
+        "mingding-worldbook-backgrounds/nova-valentia-city-day-02.png",
+        "mingding-worldbook-backgrounds/nova-valentia-city-day-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-nova-valentia-city-night",
+      "kind": "background",
+      "keyword": "瓦伦蒂亚",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/nova-valentia-city-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/nova-valentia-city-night-01.png",
+        "mingding-worldbook-backgrounds/nova-valentia-city-night-02.png",
+        "mingding-worldbook-backgrounds/nova-valentia-city-night-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-sky-crown-upper-day",
+      "kind": "background",
+      "keyword": "天穹之冠",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/sky-crown-upper-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/sky-crown-upper-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-sky-crown-upper-night",
+      "kind": "background",
+      "keyword": "天穹之冠",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/sky-crown-upper-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/sky-crown-upper-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-dragonspine-mountains-day",
+      "kind": "background",
+      "keyword": "龙脊山脉",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/dragonspine-mountains-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/dragonspine-mountains-day-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-dragonspine-mountains-night",
+      "kind": "background",
+      "keyword": "龙脊山脉",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/dragonspine-mountains-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/dragonspine-mountains-night-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-amberguard-brewery-quarter-day",
+      "kind": "background",
+      "keyword": "酿坊区",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/amberguard-brewery-quarter-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/amberguard-brewery-quarter-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-amberguard-brewery-quarter-night",
+      "kind": "background",
+      "keyword": "酿坊区",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/amberguard-brewery-quarter-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/amberguard-brewery-quarter-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-holy-peak-sanctuary-day",
+      "kind": "background",
+      "keyword": "主峰圣域",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/holy-peak-sanctuary-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/holy-peak-sanctuary-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-holy-peak-sanctuary-night",
+      "kind": "background",
+      "keyword": "主峰圣域",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/holy-peak-sanctuary-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/holy-peak-sanctuary-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-hyacinth-main-district-day",
+      "kind": "background",
+      "keyword": "风信子城-主城区",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/hyacinth-main-district-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/hyacinth-main-district-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-hyacinth-main-district-night",
+      "kind": "background",
+      "keyword": "风信子城-主城区",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/hyacinth-main-district-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/hyacinth-main-district-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-city-of-lament-twin-fortress-day",
+      "kind": "background",
+      "keyword": "双生堡垒",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/city-of-lament-twin-fortress-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/city-of-lament-twin-fortress-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-city-of-lament-twin-fortress-night",
+      "kind": "background",
+      "keyword": "双生堡垒",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/city-of-lament-twin-fortress-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/city-of-lament-twin-fortress-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-moonfall-city-day",
+      "kind": "background",
+      "keyword": "沉月城",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/moonfall-city-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/moonfall-city-day-01.png",
+        "mingding-worldbook-backgrounds/moonfall-city-day-02.png",
+        "mingding-worldbook-backgrounds/moonfall-city-day-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-moonfall-city-night",
+      "kind": "background",
+      "keyword": "沉月城",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/moonfall-city-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/moonfall-city-night-01.png",
+        "mingding-worldbook-backgrounds/moonfall-city-night-02.png",
+        "mingding-worldbook-backgrounds/moonfall-city-night-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-amberguard-city-day",
+      "kind": "background",
+      "keyword": "琥珀加德",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/amberguard-city-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/amberguard-city-day-01.png",
+        "mingding-worldbook-backgrounds/amberguard-city-day-02.png",
+        "mingding-worldbook-backgrounds/amberguard-city-day-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-amberguard-city-night",
+      "kind": "background",
+      "keyword": "琥珀加德",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/amberguard-city-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/amberguard-city-night-01.png",
+        "mingding-worldbook-backgrounds/amberguard-city-night-02.png",
+        "mingding-worldbook-backgrounds/amberguard-city-night-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-valentia-alchemy-guild-day",
+      "kind": "background",
+      "keyword": "炼金公会",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/valentia-alchemy-guild-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/valentia-alchemy-guild-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-valentia-alchemy-guild-night",
+      "kind": "background",
+      "keyword": "炼金公会",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/valentia-alchemy-guild-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/valentia-alchemy-guild-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-elven-rootheart-sanctuary-day",
+      "kind": "background",
+      "keyword": "根心圣域",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/elven-rootheart-sanctuary-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/elven-rootheart-sanctuary-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-elven-rootheart-sanctuary-night",
+      "kind": "background",
+      "keyword": "根心圣域",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/elven-rootheart-sanctuary-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/elven-rootheart-sanctuary-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-dragonroar-scale-smithy-belt-day",
+      "kind": "background",
+      "keyword": "鳞匠工坊带",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/dragonroar-scale-smithy-belt-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/dragonroar-scale-smithy-belt-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-dragonroar-scale-smithy-belt-night",
+      "kind": "background",
+      "keyword": "鳞匠工坊带",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/dragonroar-scale-smithy-belt-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/dragonroar-scale-smithy-belt-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-valentia-farshore-street-day",
+      "kind": "background",
+      "keyword": "彼岸街",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/valentia-farshore-street-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/valentia-farshore-street-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-valentia-farshore-street-night",
+      "kind": "background",
+      "keyword": "彼岸街",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/valentia-farshore-street-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/valentia-farshore-street-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-southeast-mountain-sea-day",
+      "kind": "background",
+      "keyword": "东南山海区",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/southeast-mountain-sea-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/southeast-mountain-sea-day-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-southeast-mountain-sea-night",
+      "kind": "background",
+      "keyword": "东南山海区",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/southeast-mountain-sea-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/southeast-mountain-sea-night-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-white-church-district-day",
+      "kind": "background",
+      "keyword": "白教区",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/white-church-district-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/white-church-district-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-white-church-district-night",
+      "kind": "background",
+      "keyword": "白教区",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/white-church-district-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/white-church-district-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-pure-feather-terrace-day",
+      "kind": "background",
+      "keyword": "净羽台",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/pure-feather-terrace-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/pure-feather-terrace-day-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-pure-feather-terrace-night",
+      "kind": "background",
+      "keyword": "净羽台",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/pure-feather-terrace-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/pure-feather-terrace-night-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-redleaf-town-day",
+      "kind": "background",
+      "keyword": "红叶镇",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/redleaf-town-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/redleaf-town-day-01.png",
+        "mingding-worldbook-backgrounds/redleaf-town-day-02.png",
+        "mingding-worldbook-backgrounds/redleaf-town-day-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-redleaf-town-night",
+      "kind": "background",
+      "keyword": "红叶镇",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/redleaf-town-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/redleaf-town-night-01.png",
+        "mingding-worldbook-backgrounds/redleaf-town-night-02.png",
+        "mingding-worldbook-backgrounds/redleaf-town-night-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-ames-dream-church-day",
+      "kind": "background",
+      "keyword": "爱梅斯教堂",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/ames-dream-church-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/ames-dream-church-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-ames-dream-church-night",
+      "kind": "background",
+      "keyword": "爱梅斯教堂",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/ames-dream-church-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/ames-dream-church-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-whalebone-town-day",
+      "kind": "background",
+      "keyword": "鲸肋镇",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/whalebone-town-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/whalebone-town-day-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-whalebone-town-night",
+      "kind": "background",
+      "keyword": "鲸肋镇",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/whalebone-town-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/whalebone-town-night-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-hyacinth-star-seed-warehouse-day",
+      "kind": "background",
+      "keyword": "星籽仓",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/hyacinth-star-seed-warehouse-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/hyacinth-star-seed-warehouse-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-hyacinth-star-seed-warehouse-night",
+      "kind": "background",
+      "keyword": "星籽仓",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/hyacinth-star-seed-warehouse-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/hyacinth-star-seed-warehouse-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-green-court-city-day",
+      "kind": "background",
+      "keyword": "翠庭城",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/green-court-city-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/green-court-city-day-01.png",
+        "mingding-worldbook-backgrounds/green-court-city-day-02.png",
+        "mingding-worldbook-backgrounds/green-court-city-day-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-green-court-city-night",
+      "kind": "background",
+      "keyword": "翠庭城",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/green-court-city-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/green-court-city-night-01.png",
+        "mingding-worldbook-backgrounds/green-court-city-night-02.png",
+        "mingding-worldbook-backgrounds/green-court-city-night-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-mist-village-day",
+      "kind": "background",
+      "keyword": "迷雾村",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/mist-village-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/mist-village-day-01.png",
+        "mingding-worldbook-backgrounds/mist-village-day-02.png",
+        "mingding-worldbook-backgrounds/mist-village-day-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-mist-village-night",
+      "kind": "background",
+      "keyword": "迷雾村",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/mist-village-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/mist-village-night-01.png",
+        "mingding-worldbook-backgrounds/mist-village-night-02.png",
+        "mingding-worldbook-backgrounds/mist-village-night-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-frostmirror-civilian-quarter-day",
+      "kind": "background",
+      "keyword": "镇民区",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/frostmirror-civilian-quarter-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/frostmirror-civilian-quarter-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-frostmirror-civilian-quarter-night",
+      "kind": "background",
+      "keyword": "镇民区",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/frostmirror-civilian-quarter-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/frostmirror-civilian-quarter-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-outer-pale-sea-day",
+      "kind": "background",
+      "keyword": "外苍白海",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/outer-pale-sea-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/outer-pale-sea-day-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-outer-pale-sea-night",
+      "kind": "background",
+      "keyword": "外苍白海",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/outer-pale-sea-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/outer-pale-sea-night-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-perchfeather-city-day",
+      "kind": "background",
+      "keyword": "栖羽城",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/perchfeather-city-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/perchfeather-city-day-01.png",
+        "mingding-worldbook-backgrounds/perchfeather-city-day-02.png",
+        "mingding-worldbook-backgrounds/perchfeather-city-day-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-perchfeather-city-night",
+      "kind": "background",
+      "keyword": "栖羽城",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/perchfeather-city-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/perchfeather-city-night-01.png",
+        "mingding-worldbook-backgrounds/perchfeather-city-night-02.png",
+        "mingding-worldbook-backgrounds/perchfeather-city-night-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-holy-capital-water-haze-district-day",
+      "kind": "background",
+      "keyword": "水岚区",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/holy-capital-water-haze-district-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/holy-capital-water-haze-district-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-holy-capital-water-haze-district-night",
+      "kind": "background",
+      "keyword": "水岚区",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/holy-capital-water-haze-district-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/holy-capital-water-haze-district-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-valentia-castle-cluster-day",
+      "kind": "background",
+      "keyword": "瓦伦蒂亚城堡",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/valentia-castle-cluster-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/valentia-castle-cluster-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-valentia-castle-cluster-night",
+      "kind": "background",
+      "keyword": "瓦伦蒂亚城堡",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/valentia-castle-cluster-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/valentia-castle-cluster-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-bathing-feather-isle-day",
+      "kind": "background",
+      "keyword": "浴羽屿",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/bathing-feather-isle-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/bathing-feather-isle-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-bathing-feather-isle-night",
+      "kind": "background",
+      "keyword": "浴羽屿",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/bathing-feather-isle-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/bathing-feather-isle-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-songswood-valleyheart-street-day",
+      "kind": "background",
+      "keyword": "谷心市街",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/songswood-valleyheart-street-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/songswood-valleyheart-street-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-songswood-valleyheart-street-night",
+      "kind": "background",
+      "keyword": "谷心市街",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/songswood-valleyheart-street-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/songswood-valleyheart-street-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-frostmirror-shipbuilding-industrial-zone-day",
+      "kind": "background",
+      "keyword": "造船工业区",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/frostmirror-shipbuilding-industrial-zone-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/frostmirror-shipbuilding-industrial-zone-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-frostmirror-shipbuilding-industrial-zone-night",
+      "kind": "background",
+      "keyword": "造船工业区",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/frostmirror-shipbuilding-industrial-zone-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/frostmirror-shipbuilding-industrial-zone-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-crownstone-terrace-day",
+      "kind": "background",
+      "keyword": "冠石台",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/crownstone-terrace-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/crownstone-terrace-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-crownstone-terrace-night",
+      "kind": "background",
+      "keyword": "冠石台",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/crownstone-terrace-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/crownstone-terrace-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-elven-eastern-mountain-forest-day",
+      "kind": "background",
+      "keyword": "东部山林区",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/elven-eastern-mountain-forest-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/elven-eastern-mountain-forest-day-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-elven-eastern-mountain-forest-night",
+      "kind": "background",
+      "keyword": "东部山林区",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/elven-eastern-mountain-forest-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/elven-eastern-mountain-forest-night-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-cloud-nest-isle-day",
+      "kind": "background",
+      "keyword": "云巢屿",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/cloud-nest-isle-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/cloud-nest-isle-day-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-cloud-nest-isle-night",
+      "kind": "background",
+      "keyword": "云巢屿",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/cloud-nest-isle-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/cloud-nest-isle-night-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-dragonroar-cliff-residential-quarter-day",
+      "kind": "background",
+      "keyword": "悬崖居住区",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/dragonroar-cliff-residential-quarter-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/dragonroar-cliff-residential-quarter-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-dragonroar-cliff-residential-quarter-night",
+      "kind": "background",
+      "keyword": "悬崖居住区",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/dragonroar-cliff-residential-quarter-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/dragonroar-cliff-residential-quarter-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-dragonroar-mountainfoot-trial-camp-day",
+      "kind": "background",
+      "keyword": "山脚试炼营地",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/dragonroar-mountainfoot-trial-camp-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/dragonroar-mountainfoot-trial-camp-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-dragonroar-mountainfoot-trial-camp-night",
+      "kind": "background",
+      "keyword": "山脚试炼营地",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/dragonroar-mountainfoot-trial-camp-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/dragonroar-mountainfoot-trial-camp-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-shattered-star-archipelago-day",
+      "kind": "background",
+      "keyword": "碎星群岛",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/shattered-star-archipelago-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/shattered-star-archipelago-day-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-shattered-star-archipelago-night",
+      "kind": "background",
+      "keyword": "碎星群岛",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/shattered-star-archipelago-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/shattered-star-archipelago-night-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-lament-city-underground-catacombs-day",
+      "kind": "background",
+      "keyword": "地下墓穴",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/lament-city-underground-catacombs-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/lament-city-underground-catacombs-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-lament-city-underground-catacombs-night",
+      "kind": "background",
+      "keyword": "地下墓穴",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/lament-city-underground-catacombs-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/lament-city-underground-catacombs-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-hyacinth-pivot-hall-day",
+      "kind": "background",
+      "keyword": "枢机厅",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/hyacinth-pivot-hall-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/hyacinth-pivot-hall-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-hyacinth-pivot-hall-night",
+      "kind": "background",
+      "keyword": "枢机厅",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/hyacinth-pivot-hall-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/hyacinth-pivot-hall-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-gilded-fertile-lands-day",
+      "kind": "background",
+      "keyword": "鎏金沃土",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/gilded-fertile-lands-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/gilded-fertile-lands-day-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-gilded-fertile-lands-night",
+      "kind": "background",
+      "keyword": "鎏金沃土",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/gilded-fertile-lands-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/gilded-fertile-lands-night-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-moonridge-memorial-day",
+      "kind": "background",
+      "keyword": "月岭",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/moonridge-memorial-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/moonridge-memorial-day-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-moonridge-memorial-night",
+      "kind": "background",
+      "keyword": "月岭",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/moonridge-memorial-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/moonridge-memorial-night-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-drifting-atoll-day",
+      "kind": "background",
+      "keyword": "漂流环礁",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/drifting-atoll-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/drifting-atoll-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-drifting-atoll-night",
+      "kind": "background",
+      "keyword": "漂流环礁",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/drifting-atoll-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/drifting-atoll-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-endless-tree-sea-dungeon-day",
+      "kind": "background",
+      "keyword": "无尽地城",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/endless-tree-sea-dungeon-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/endless-tree-sea-dungeon-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-endless-tree-sea-dungeon-night",
+      "kind": "background",
+      "keyword": "无尽地城",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/endless-tree-sea-dungeon-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/endless-tree-sea-dungeon-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-fania-foothills-day",
+      "kind": "background",
+      "keyword": "山麓地带",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/fania-foothills-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/fania-foothills-day-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-fania-foothills-night",
+      "kind": "background",
+      "keyword": "山麓地带",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/fania-foothills-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/fania-foothills-night-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-frostcliff-sacred-forge-day",
+      "kind": "background",
+      "keyword": "霜崖",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/frostcliff-sacred-forge-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/frostcliff-sacred-forge-day-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-frostcliff-sacred-forge-night",
+      "kind": "background",
+      "keyword": "霜崖",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/frostcliff-sacred-forge-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/frostcliff-sacred-forge-night-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-holy-capital-cloudbell-district-day",
+      "kind": "background",
+      "keyword": "云钟区",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/holy-capital-cloudbell-district-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/holy-capital-cloudbell-district-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-holy-capital-cloudbell-district-night",
+      "kind": "background",
+      "keyword": "云钟区",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/holy-capital-cloudbell-district-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/holy-capital-cloudbell-district-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-winter-university-day",
+      "kind": "background",
+      "keyword": "凛冬大学",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/winter-university-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/winter-university-day-01.png",
+        "mingding-worldbook-backgrounds/winter-university-day-02.png",
+        "mingding-worldbook-backgrounds/winter-university-day-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-winter-university-night",
+      "kind": "background",
+      "keyword": "凛冬大学",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/winter-university-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/winter-university-night-01.png",
+        "mingding-worldbook-backgrounds/winter-university-night-02.png",
+        "mingding-worldbook-backgrounds/winter-university-night-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-duskwood-city-day",
+      "kind": "background",
+      "keyword": "暮林城",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/duskwood-city-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/duskwood-city-day-01.png",
+        "mingding-worldbook-backgrounds/duskwood-city-day-02.png",
+        "mingding-worldbook-backgrounds/duskwood-city-day-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-duskwood-city-night",
+      "kind": "background",
+      "keyword": "暮林城",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/duskwood-city-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/duskwood-city-night-01.png",
+        "mingding-worldbook-backgrounds/duskwood-city-night-02.png",
+        "mingding-worldbook-backgrounds/duskwood-city-night-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-glass-promenade-day",
+      "kind": "background",
+      "keyword": "琉璃回廊",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/glass-promenade-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/glass-promenade-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-glass-promenade-night",
+      "kind": "background",
+      "keyword": "琉璃回廊",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/glass-promenade-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/glass-promenade-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-royal-tombs-of-five-kings-day",
+      "kind": "background",
+      "keyword": "诸王陵寝",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/royal-tombs-of-five-kings-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/royal-tombs-of-five-kings-day-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-royal-tombs-of-five-kings-night",
+      "kind": "background",
+      "keyword": "诸王陵寝",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/royal-tombs-of-five-kings-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/royal-tombs-of-five-kings-night-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-moonpool-isle-day",
+      "kind": "background",
+      "keyword": "月池屿",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/moonpool-isle-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/moonpool-isle-day-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-moonpool-isle-night",
+      "kind": "background",
+      "keyword": "月池屿",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/moonpool-isle-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/moonpool-isle-night-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-dinosaur-ecological-bottle-day",
+      "kind": "background",
+      "keyword": "恐龙生态瓶",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/dinosaur-ecological-bottle-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/dinosaur-ecological-bottle-day-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-dinosaur-ecological-bottle-night",
+      "kind": "background",
+      "keyword": "恐龙生态瓶",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/dinosaur-ecological-bottle-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/dinosaur-ecological-bottle-night-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-hyacinth-squeaky-market-day",
+      "kind": "background",
+      "keyword": "吱吱市集",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/hyacinth-squeaky-market-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/hyacinth-squeaky-market-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-hyacinth-squeaky-market-night",
+      "kind": "background",
+      "keyword": "吱吱市集",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/hyacinth-squeaky-market-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/hyacinth-squeaky-market-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-civilization-outpost-day",
+      "kind": "background",
+      "keyword": "文明哨站",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/civilization-outpost-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/civilization-outpost-day-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-civilization-outpost-night",
+      "kind": "background",
+      "keyword": "文明哨站",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/civilization-outpost-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/civilization-outpost-night-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-sleeping-root-valley-day",
+      "kind": "background",
+      "keyword": "眠根谷",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/sleeping-root-valley-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/sleeping-root-valley-day-01.png",
+        "mingding-worldbook-backgrounds/sleeping-root-valley-day-02.png",
+        "mingding-worldbook-backgrounds/sleeping-root-valley-day-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-sleeping-root-valley-night",
+      "kind": "background",
+      "keyword": "眠根谷",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/sleeping-root-valley-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/sleeping-root-valley-night-01.png",
+        "mingding-worldbook-backgrounds/sleeping-root-valley-night-02.png",
+        "mingding-worldbook-backgrounds/sleeping-root-valley-night-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-starcliff-city-day",
+      "kind": "background",
+      "keyword": "星辰崖",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/starcliff-city-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/starcliff-city-day-01.png",
+        "mingding-worldbook-backgrounds/starcliff-city-day-02.png",
+        "mingding-worldbook-backgrounds/starcliff-city-day-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-starcliff-city-night",
+      "kind": "background",
+      "keyword": "星辰崖",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/starcliff-city-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/starcliff-city-night-01.png",
+        "mingding-worldbook-backgrounds/starcliff-city-night-02.png",
+        "mingding-worldbook-backgrounds/starcliff-city-night-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-whiteharbor-oil-rendering-quarter-day",
+      "kind": "background",
+      "keyword": "炼脂坊",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/whiteharbor-oil-rendering-quarter-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/whiteharbor-oil-rendering-quarter-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-whiteharbor-oil-rendering-quarter-night",
+      "kind": "background",
+      "keyword": "炼脂坊",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/whiteharbor-oil-rendering-quarter-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/whiteharbor-oil-rendering-quarter-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-fania-mountain-airspace-day",
+      "kind": "background",
+      "keyword": "群山空域",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/fania-mountain-airspace-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/fania-mountain-airspace-day-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-fania-mountain-airspace-night",
+      "kind": "background",
+      "keyword": "群山空域",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/fania-mountain-airspace-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/fania-mountain-airspace-night-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-fania-mountainfoot-settlement-day",
+      "kind": "background",
+      "keyword": "山脚聚集地",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/fania-mountainfoot-settlement-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/fania-mountainfoot-settlement-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-fania-mountainfoot-settlement-night",
+      "kind": "background",
+      "keyword": "山脚聚集地",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/fania-mountainfoot-settlement-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/fania-mountainfoot-settlement-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-white-harbor-city-day",
+      "kind": "background",
+      "keyword": "白港",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/white-harbor-city-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/white-harbor-city-day-01.png",
+        "mingding-worldbook-backgrounds/white-harbor-city-day-02.png",
+        "mingding-worldbook-backgrounds/white-harbor-city-day-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-white-harbor-city-night",
+      "kind": "background",
+      "keyword": "白港",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/white-harbor-city-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/white-harbor-city-night-01.png",
+        "mingding-worldbook-backgrounds/white-harbor-city-night-02.png",
+        "mingding-worldbook-backgrounds/white-harbor-city-night-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-lament-capital-forbidden-laboratory-day",
+      "kind": "background",
+      "keyword": "都城禁区",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/lament-capital-forbidden-laboratory-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/lament-capital-forbidden-laboratory-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-lament-capital-forbidden-laboratory-night",
+      "kind": "background",
+      "keyword": "都城禁区",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/lament-capital-forbidden-laboratory-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/lament-capital-forbidden-laboratory-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-whiteharbor-bay-district-day",
+      "kind": "background",
+      "keyword": "港湾区",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/whiteharbor-bay-district-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/whiteharbor-bay-district-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-whiteharbor-bay-district-night",
+      "kind": "background",
+      "keyword": "港湾区",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/whiteharbor-bay-district-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/whiteharbor-bay-district-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-songswood-forest-edge-manors-day",
+      "kind": "background",
+      "keyword": "林缘庄园带",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/songswood-forest-edge-manors-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/songswood-forest-edge-manors-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-songswood-forest-edge-manors-night",
+      "kind": "background",
+      "keyword": "林缘庄园带",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/songswood-forest-edge-manors-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/songswood-forest-edge-manors-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-mist-village-witch-tower-day",
+      "kind": "background",
+      "keyword": "魔女塔楼",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/mist-village-witch-tower-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/mist-village-witch-tower-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-mist-village-witch-tower-night",
+      "kind": "background",
+      "keyword": "魔女塔楼",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/mist-village-witch-tower-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/mist-village-witch-tower-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-dragonroar-outer-forecourt-day",
+      "kind": "background",
+      "keyword": "外环前庭",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/dragonroar-outer-forecourt-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/dragonroar-outer-forecourt-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-dragonroar-outer-forecourt-night",
+      "kind": "background",
+      "keyword": "外环前庭",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/dragonroar-outer-forecourt-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/dragonroar-outer-forecourt-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-lament-fortress-hot-springs-quarter-day",
+      "kind": "background",
+      "keyword": "热泉坊",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/lament-fortress-hot-springs-quarter-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/lament-fortress-hot-springs-quarter-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-lament-fortress-hot-springs-quarter-night",
+      "kind": "background",
+      "keyword": "热泉坊",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/lament-fortress-hot-springs-quarter-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/lament-fortress-hot-springs-quarter-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-whiteglow-concord-plaza-day",
+      "kind": "background",
+      "keyword": "盟约广场区",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/whiteglow-concord-plaza-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/whiteglow-concord-plaza-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-whiteglow-concord-plaza-night",
+      "kind": "background",
+      "keyword": "盟约广场区",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/whiteglow-concord-plaza-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/whiteglow-concord-plaza-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-windcut-cliff-day",
+      "kind": "background",
+      "keyword": "风切崖",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/windcut-cliff-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/windcut-cliff-day-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-windcut-cliff-night",
+      "kind": "background",
+      "keyword": "风切崖",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/windcut-cliff-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/windcut-cliff-night-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-ember-ridge-day",
+      "kind": "background",
+      "keyword": "炽岭",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/ember-ridge-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/ember-ridge-day-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-ember-ridge-night",
+      "kind": "background",
+      "keyword": "炽岭",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/ember-ridge-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/ember-ridge-night-01.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-amberguard-goldcrown-heights-day",
+      "kind": "background",
+      "keyword": "金冠高地",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/amberguard-goldcrown-heights-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/amberguard-goldcrown-heights-day-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-amberguard-goldcrown-heights-night",
+      "kind": "background",
+      "keyword": "金冠高地",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/amberguard-goldcrown-heights-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/amberguard-goldcrown-heights-night-01.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-weeping-sky-ruins-name-day",
+      "kind": "background",
+      "keyword": "艾琉德雷姆·尼尔",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/weeping-sky-ruins-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/weeping-sky-ruins-day-01.png",
+        "mingding-worldbook-backgrounds/weeping-sky-ruins-day-02.png",
+        "mingding-worldbook-backgrounds/weeping-sky-ruins-day-03.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-weeping-sky-ruins-name-night",
+      "kind": "background",
+      "keyword": "艾琉德雷姆·尼尔",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/weeping-sky-ruins-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/weeping-sky-ruins-night-01.png",
+        "mingding-worldbook-backgrounds/weeping-sky-ruins-night-02.png",
+        "mingding-worldbook-backgrounds/weeping-sky-ruins-night-03.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-weeping-sky-ruins-alias-day",
+      "kind": "background",
+      "keyword": "泣空遗迹",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/weeping-sky-ruins-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/weeping-sky-ruins-day-01.png",
+        "mingding-worldbook-backgrounds/weeping-sky-ruins-day-02.png",
+        "mingding-worldbook-backgrounds/weeping-sky-ruins-day-03.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-weeping-sky-ruins-alias-night",
+      "kind": "background",
+      "keyword": "泣空遗迹",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/weeping-sky-ruins-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/weeping-sky-ruins-night-01.png",
+        "mingding-worldbook-backgrounds/weeping-sky-ruins-night-02.png",
+        "mingding-worldbook-backgrounds/weeping-sky-ruins-night-03.png"
+      ],
+      "priority": 60,
+      "enabled": true
+    }
+  ]
+}
