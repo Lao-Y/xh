@@ -5,7 +5,7 @@
   "selection": "初筛：仅地点和可视场景；仍需人工核对遗漏与抽象条目",
   "worldbookEntries": 537,
   "candidateScenes": 216,
-  "generatedScenes": 94,
+  "generatedScenes": 98,
   "entries": [
     {
       "id": 6061,
@@ -955,7 +955,7 @@
       "keys": [
         "永夜长垣"
       ],
-      "status": "pending"
+      "status": "generated"
     },
     {
       "id": 410899,
@@ -989,7 +989,7 @@
       "keys": [
         "银帆城"
       ],
-      "status": "pending"
+      "status": "generated"
     },
     {
       "id": 427991,
@@ -1038,7 +1038,7 @@
       "keys": [
         "云息盆地"
       ],
-      "status": "pending"
+      "status": "generated"
     },
     {
       "id": 462039,
@@ -1089,7 +1089,7 @@
       "keys": [
         "北崖台"
       ],
-      "status": "pending"
+      "status": "generated"
     },
     {
       "id": 486850,

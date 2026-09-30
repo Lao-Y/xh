@@ -2576,5 +2576,113 @@
       "priority": 60,
       "enabled": true
     }
+,
+    {
+      "id": "bg-evernight-wall-day",
+      "kind": "background",
+      "keyword": "永夜长垣",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/evernight-wall-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/evernight-wall-day-01.png",
+        "mingding-worldbook-backgrounds/evernight-wall-day-02.png",
+        "mingding-worldbook-backgrounds/evernight-wall-day-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-evernight-wall-night",
+      "kind": "background",
+      "keyword": "永夜长垣",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/evernight-wall-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/evernight-wall-night-01.png",
+        "mingding-worldbook-backgrounds/evernight-wall-night-02.png",
+        "mingding-worldbook-backgrounds/evernight-wall-night-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    }
+,
+    {
+      "id": "bg-cloudrest-basin-day",
+      "kind": "background",
+      "keyword": "云息盆地",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/cloudrest-basin-day-01.png",
+      "paths": ["mingding-worldbook-backgrounds/cloudrest-basin-day-01.png"],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-cloudrest-basin-night",
+      "kind": "background",
+      "keyword": "云息盆地",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/cloudrest-basin-night-01.png",
+      "paths": ["mingding-worldbook-backgrounds/cloudrest-basin-night-01.png"],
+      "priority": 50,
+      "enabled": true
+    }
+,
+    {
+      "id": "bg-whiteharbor-north-cliff-day",
+      "kind": "background",
+      "keyword": "北崖台",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/whiteharbor-north-cliff-day-01.png",
+      "paths": ["mingding-worldbook-backgrounds/whiteharbor-north-cliff-day-01.png"],
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bg-whiteharbor-north-cliff-night",
+      "kind": "background",
+      "keyword": "北崖台",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/whiteharbor-north-cliff-night-01.png",
+      "paths": ["mingding-worldbook-backgrounds/whiteharbor-north-cliff-night-01.png"],
+      "priority": 60,
+      "enabled": true
+    }
+,
+    {
+      "id": "bg-silver-sail-city-day",
+      "kind": "background",
+      "keyword": "银帆城",
+      "mode": "contains",
+      "period": "day",
+      "path": "mingding-worldbook-backgrounds/silver-sail-city-day-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/silver-sail-city-day-01.png",
+        "mingding-worldbook-backgrounds/silver-sail-city-day-02.png",
+        "mingding-worldbook-backgrounds/silver-sail-city-day-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "bg-silver-sail-city-night",
+      "kind": "background",
+      "keyword": "银帆城",
+      "mode": "contains",
+      "period": "night",
+      "path": "mingding-worldbook-backgrounds/silver-sail-city-night-01.png",
+      "paths": [
+        "mingding-worldbook-backgrounds/silver-sail-city-night-01.png",
+        "mingding-worldbook-backgrounds/silver-sail-city-night-02.png",
+        "mingding-worldbook-backgrounds/silver-sail-city-night-03.png"
+      ],
+      "priority": 50,
+      "enabled": true
+    }
   ]
 }
